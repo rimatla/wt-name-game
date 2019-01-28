@@ -1,0 +1,29 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+
+.Game {
+  box-sizing: border-box;
+  font-family: 'Helvetica Neue', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial,
+    sans-serif;
+  font-size: 20px;
+  font-weight: 200;
+}
+
+ul {
+  list-style: none;
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+span {
+  display: block;
+  text-align: center;
+}

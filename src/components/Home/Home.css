@@ -1,0 +1,12 @@
+.home-container {
+    height: 190px;
+    margin-top: 100px;
+    background: #0366d6;
+    color: #ffffff;
+    text-align: center;
+    font-weight: 400;
+    font-size: 46px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
